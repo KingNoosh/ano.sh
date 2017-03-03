@@ -6,4 +6,5 @@ body {
     background: -webkit-gradient(linear, to left, #614385 , #516395);
     background: linear-gradient(to left, #614385 , #516395);
     color: #fff;
+    font-family: 'Raleway', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
